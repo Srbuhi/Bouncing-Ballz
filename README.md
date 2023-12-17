@@ -14,7 +14,7 @@
 ## Getting Started
     To set up this project locally, follow these steps:
 
-    1. Clone the repository: `git clone https://github.com/Srbuhi/Bouncing Ballz.git`
+    1. Clone the repository: `git clone https://github.com/Srbuhi/Bouncing-Ballz.git`
     2. Navigate to the project directory: `cd Bouncing Ballz`
     3. Open `index.html` in your web browser.
 
